@@ -1,5 +1,8 @@
 # 禁漫天堂
 
+test
+
+
 [![GitHub](https://img.shields.io/github/license/tonquer/JMComic-qt)](https://raw.githubusercontent.com/tonquer/picacg-windows/master/LICENSE.txt)
 ![Relese](https://img.shields.io/badge/Python-3.7.9%2B-brightgreen)
 [![Relese](https://img.shields.io/github/v/release/tonquer/JMComic-qt)](https://github.com/tonquer/JMComic-qt/releases)
